@@ -43,7 +43,7 @@
 <a href="https://telegram.me/UTTAM470"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗨𝗧𝗧𝗔𝗠%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/BADE_LOG1"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗕𝗔𝗕𝗬%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+NfsxZ-cas0JjNWVl"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗕𝗔𝗕𝗬%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
