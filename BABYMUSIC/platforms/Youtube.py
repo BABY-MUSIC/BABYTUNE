@@ -12,8 +12,8 @@ from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
 import config
-from InsaneMusic.utils.database import is_on_off
-from InsaneMusic.utils.formatters import time_to_seconds
+from BABYMUSIC.utils.database import is_on_off
+from BABYMUSIC.utils.formatters import time_to_seconds
 
 
 async def shell_cmd(cmd):
