@@ -10,7 +10,7 @@ from typing import Union
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Voice
 
 import config
-from config import MUSIC_BOT_NAME, lyrical
+from config import BABY_MUSIC09_BOT, lyrical
 from BABYMUSIC import app
 
 from ..utils.formatters import convert_bytes, get_readable_time, seconds_to_min
