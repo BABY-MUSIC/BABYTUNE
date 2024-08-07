@@ -6,7 +6,7 @@ from os import path
 
 from yt_dlp import YoutubeDL
 
-from InsaneMusic.utils.formatters import seconds_to_min
+from BABYMUSIC.utils.formatters import seconds_to_min
 
 
 class SoundAPI:
