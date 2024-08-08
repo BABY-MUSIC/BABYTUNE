@@ -78,6 +78,11 @@ async def stream(
                         vidid, mystic, video=status, videoid=True
                     )
                 except:
+                    try:
+                        file_path, direct = await YTB.download(
+                           vidid, mystic, video=status, videoid=True
+                        )
+                    except:
                     raise AssistantErr(_["play_14"])
                 await BABY.join_call(
                     chat_id,
