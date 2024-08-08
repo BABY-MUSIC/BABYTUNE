@@ -3,7 +3,7 @@ from telegram import CallbackQuery
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from BABYMUSIC import YouTube, app
+from BABYMUSIC import YouTube, app, YTB
 from BABYMUSIC.core.call import BABY
 from BABYMUSIC.misc import SUDOERS, db
 from BABYMUSIC.utils.database import (
@@ -270,6 +270,14 @@ async def del_back_playlist(client, CallbackQuery, _):
                     mystic,
                     videoid=True,
                     video=status,
+                )
+            except:
+                try:
+                    file_path, direct = await YTB.download(
+                        videoid,
+                        mystic,
+                        videoid=True,
+                        video=status,
                 )
             except:
                 return await mystic.edit_text(_["call_6"])
