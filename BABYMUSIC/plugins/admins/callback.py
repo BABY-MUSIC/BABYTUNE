@@ -288,7 +288,7 @@ async def del_back_playlist(client, CallbackQuery, _):
             try:
                 await BABY.skip_stream(chat_id, file_path, video=status, image=image)
             except:
-                return await mystic.edit_text(_["call_6"])
+                return await mystic.edit_text(_["call_7"])
             button = stream_markup(_, chat_id)
             img = await get_thumb(videoid)
             run = await CallbackQuery.message.reply_photo(
