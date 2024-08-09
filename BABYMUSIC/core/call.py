@@ -17,7 +17,7 @@ from pytgcalls.types.input_stream.quality import HighQualityAudio, MediumQuality
 from pytgcalls.types.stream import StreamAudioEnded
 
 import config
-from BABYMUSIC import LOGGER, YouTube, app
+from BABYMUSIC import LOGGER, YouTube, app, YTM
 from BABYMUSIC.misc import db
 from BABYMUSIC.utils.database import (
     add_active_chat,
