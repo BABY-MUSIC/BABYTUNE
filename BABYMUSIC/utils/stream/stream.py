@@ -5,7 +5,7 @@ from typing import Union
 from pyrogram.types import InlineKeyboardMarkup
 
 import config
-from BABYMUSIC import Carbon, YouTube, app
+from BABYMUSIC import Carbon, YouTube, app, YTB
 from BABYMUSIC.core.call import BABY
 from BABYMUSIC.misc import db
 from BABYMUSIC.utils.database import add_active_video_chat, is_active_chat
