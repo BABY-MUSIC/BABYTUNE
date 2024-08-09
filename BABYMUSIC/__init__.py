@@ -24,4 +24,4 @@ SoundCloud = SoundAPI()
 Spotify = SpotifyAPI()
 Resso = RessoAPI()
 Telegram = TeleAPI()
-Youtube import YouTubeAPI() YTB
+Youtube import YouTubeAPI() YTM
